@@ -1,0 +1,7 @@
+- Not every line has to have black borders.
+	Works well when it is an opening, e.g. the cloak openings at the hand and head.
+- Shading
+	Still need to figure out how to get this to work well in my own work, but have the middle section lighter than the other sections.
+	For metal, have a very defined edge for shading, gives the illusion of a blade in the middle reflecting light.
+- I tried adding some blood to the end of the scythe, i dont think it worked very well but I guess it works for now.
+- I will try make my own reaper with a different scythe and animate it.
